@@ -5,7 +5,9 @@ export const skillData = [
   { name: "CSS3", icon: assets.css_icon, level: 90 },
   { name: "JavaScript", icon: assets.javascript_icon, level: 85 },
   { name: "React.js", icon: assets.react_icon, level: 80 },
+  { name: "Redux Toolkit", icon: assets.reduxtoolkit_icon, level: 65 },
+  { name: "TypeScript", icon: assets.typescript_icon, level: 40 },
   { name: "Tailwind CSS", icon: assets.tailwind_icon, level: 90 },
   { name: "Git & GitHub", icon: assets.git, level: 85 },
-  { name: "Figma", icon: assets.figma, level: 70 },
+  { name: "Figma", icon: assets.figma, level: 50 },
 ];

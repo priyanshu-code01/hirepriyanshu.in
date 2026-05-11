@@ -30,6 +30,8 @@ import css_icon from './css-icon.png'
 import javascript_icon from './javaScript-icon.png'
 import react_icon from './react-icon.png'
 import tailwind_icon from './tailwind-icon.png'
+import typescript_icon from './typescript-icon.png'
+import reduxtoolkit_icon from './reduxtoolkit-icon.png';
 
 export const assets = {
     user_image,
@@ -63,7 +65,9 @@ export const assets = {
     css_icon,
     react_icon,
     javascript_icon,
-    tailwind_icon
+    tailwind_icon,
+    typescript_icon,
+    reduxtoolkit_icon
 };
 
 export const infoList = [
